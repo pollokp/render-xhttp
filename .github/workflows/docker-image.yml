@@ -25,4 +25,4 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
-          tags: ghcr.io/rendeer009/xhttp2:latest
+          tags: ghcr.io/pollokp/render:latest
